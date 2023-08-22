@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [link](link)
 
-- ⚡ Fun fact **I am a Blue Belt in Brazilian Jiu Jitsu**
+- ⚡ Fun fact: **I am a Blue Belt in Brazilian Jiu Jitsu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
