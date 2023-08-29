@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge Sáenz</h1>
-<h3 align="center">Jorge is a an enthusiastic Data Science professional with a background in Mechatronics Engineering and specialized knowledge in Machine Learning.</h3>
+<h3 align="center">Jorge is an enthusiastic Data Science professional with a background in Mechatronics Engineering and specialized knowledge in Machine Learning.</h3>
 <img align="right" src="giflogo.gif" alt="Alt Text" style="width:250px;">
 
 
