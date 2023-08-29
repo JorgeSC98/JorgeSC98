@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **saenz_jorge_33@hotmail.com**
 
-- 📄 Know about my experiences [link]([link](https://sites.google.com/tec.mx/jorgesaenz))
+- 📄 Know about my experiences [link](https://sites.google.com/tec.mx/jorgesaenz)
 
 - ⚡ Fun fact: **I am a Blue Belt in Brazilian Jiu Jitsu**
 
