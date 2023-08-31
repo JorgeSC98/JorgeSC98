@@ -7,11 +7,11 @@
 
 - 👯 I’m currently collaborating with [Biomechatronics Laboratory](https://laboratoriobiomecatronica.tec.mx/)
 
-- 👨‍💻 All of my projects are available at [link](link)
+- 👨‍💻 All of my projects are available at [Portfolio](https://sites.google.com/tec.mx/jorgesaenz)
 
 - 📫 How to reach me **saenz_jorge_33@hotmail.com**
 
-- 📄 Know about my experiences in my [Portfolio](https://sites.google.com/tec.mx/jorgesaenz)
+- 📄 Know about my experiences in my [Resume](https://drive.google.com/file/d/10yNpjMv1Lc7KX9MXvwSSSSvP1IEaXnfU/view?usp=drive_link)
 
 - ⚡ Fun fact: **I am a Blue Belt in Brazilian Jiu Jitsu**
 
